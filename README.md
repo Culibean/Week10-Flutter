@@ -52,7 +52,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#ways_of_working">Ways of Working</a></li>
+    <li><a href="#ways-of-working">Ways of Working</a></li>
     <li><a href="#resources">Resources</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#tutorials">Now it's your turn</a></li>
