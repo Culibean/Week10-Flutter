@@ -52,7 +52,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#way_of_working">Way of Working</a></li>
     <li><a href="#resources">Resources</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#tutorials">Now it's your turn</a></li>
@@ -74,40 +74,19 @@
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To install FLutter you can follow the documentation on <a href="https://docs.flutter.dev/install"> Install Flutter </a> and- or follow the steps below.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You need:
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+VS Code
+either PowerShell or WSL
+Git
+
+Alternatively you can also use <a href="https://dartpad.dev/"> DartPad </a> to start learning Dart and Flutter/
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,35 +94,51 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Flutter is a UI toolkit from Google that lets you build mobile, web, and desktop apps from a single codebase. You write your app in Dart, structure your interface using widgets and Flutter renders everything itself instead of relying on the platform’s native UI components. This ensure that the look and behaviour of the app stays consistent across all platforms.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+_For a more detailed explanation of Flutter, please refer to the [Documentation](https://flutter.dev/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+## Way of working
+
+- [x] <a href="https://trello.com/b/hsoWnc5Z/week-10-project-flutter">Trello Board </a>
+- [x] Shared Google Drive
+- [x] Stand-Ups twice daily
+- [x] Conistent communication over Google Meets and Discord
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Resources
 
-Add a list of good Flutter docs
+- <a href="https://flutter.dev/">Flutter Homepage</a>
+- <a href="https://docs.flutter.dev/">Flutter Documentation</a>
+- <a href="https://dart.dev/docs">Dart Documentation</a>
+- <a href="https://www.geeksforgeeks.org/blogs/what-is-flutter/">What is Flutter - A blog </a>
 
-### Top contributors:
+**Widgets**
+
+- <a href="https://docs.flutter.dev/ui/widgets">Flutter Widget Catalog</a>
+- <a href="https://docs.flutter.dev/ui/layout">Layout Widgets Overview</a>
+- <a href="https://docs.flutter.dev/ui/widgets/material">Material Widgets</a>
+- <a href="https://docs.flutter.dev/ui/widgets/cupertino">Cupertino Widgets</a>
+
+**Icons**
+
+- <a href="https://api.flutter.dev/flutter/material/Icons-class.html">Material Icons</a>
+- <a href="https://api.flutter.dev/flutter/cupertino/CupertinoIcons-class.html">Cupertino Icons</a>
+- <a href="https://fonts.google.com/icons">Google Icons (External)</a>
+
+**Architecture**
+
+- <a href="https://docs.flutter.dev/app-architecture">Flutter App Architecture Guide</a>
+- <a href="https://dart.dev/guides/language/effective-dart">Effective Dart (Clean Code)</a>
+- <a href="https://www.geeksforgeeks.org/flutter/materialapp-class-in-flutter/">MaterialApp Class (GeeksforGeeks)</a>
+- <a href= "https://www.geeksforgeeks.org/flutter/flutter-architecture-application/">Flutter - Architecture Application </a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Contributors:
 
 <a href="https://github.com/Angel-Hime">
   <img 
@@ -173,14 +168,11 @@ Add a list of good Flutter docs
 
 Links to tutorials
 
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+- <a href="https://www.youtube.com/watch?v=HQ_ytw58tC4"> Beginners Course for Fluuter </a>
+- <a href= "https://flutter.dev/learn"> Flutter Learn </a>
+- <a href="https://dart.dev/learn/tutorial/first-app"> Build your first app </a>
+- <a href="https://www.geeksforgeeks.org/flutter/flutter-tutorial/">Flutter Tutorial on Geeks for Geeks </a>
+- <a href="https://www.youtube.com/watch?v=3kaGC_DrUnw"> Flutter Mapp Crash Course </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
