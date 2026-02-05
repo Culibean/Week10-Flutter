@@ -52,7 +52,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#way_of_working">Way of Working</a></li>
+    <li><a href="#ways_of_working">Ways of Working</a></li>
     <li><a href="#resources">Resources</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#tutorials">Now it's your turn</a></li>
@@ -100,7 +100,7 @@ _For a more detailed explanation of Flutter, please refer to the [Documentation]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Way of working
+## Ways of working
 
 - [x] <a href="https://trello.com/b/hsoWnc5Z/week-10-project-flutter">Trello Board </a>
 - [x] Shared Google Drive
