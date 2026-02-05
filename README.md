@@ -202,6 +202,12 @@ Links to tutorials
 
 ## Reflection
 
-Our reflection goes here
+We set out to review the Flutter framework, learning some of the language used and to understand the development from Dart. In order to address the main requirements of this project we began constructing a plan using Trello, outlining our communication methods, organising the main goals of our presentation, and underlining how we were to go about research to ensure joint understanding of Flutter.
+
+It may be said that we started with a broad scope, with intentions of understanding Dart as well as the Flutter framework. This was something that we had to roll back a little bit on because of the differences between the JavaScript language that we have been learning and the object oriented development practices of Dart. We also wanted to get a deeper understanding of Flutter from a coding perspective, and whilst we were able to construct a clear Demo model, the decision was made that the demo itself was to focus solely on the ability to manipulate and update the UI with ease to demonstrate the simplicity of the modular design aspects that Flutter was created for.
+
+We also found it difficult to install the Flutter SDK at the start; we found that the documents were not super helpful and so we had to find a way around it.
+
+We worked cohesively as a team and found very little to disagree on. Our communication was fluid and we were able to share tasks without any concerns or issues. We helped each other to understand aspects of our individual research and guided one another on installation issues. All-in-all it was a smooth and slick process and we are comfortable with our final project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
