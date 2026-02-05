@@ -29,7 +29,7 @@
   <h3 align="center">Mobile app development with Flutter - an intro</h3>
 
   <p align="center">
-    This project is an initial introduction on how easily style your app with Flutter
+    This project is an initial introduction on how to easily style your app with Flutter
     <br />
   </p>
 </div>
@@ -80,13 +80,42 @@ To install FLutter you can follow the documentation on <a href="https://docs.flu
 
 You need:
 
-VS Code
-either PowerShell or WSL
-Git
+<a href="https://docs.flutter.dev/install/manual">Download the SDK file</a> zip folder for Ubuntu and Linux
 
 Alternatively you can also use <a href="https://dartpad.dev/"> DartPad </a> to start learning Dart and Flutter/
 
 ### Installation
+
+In your Ubuntu terminal use:
+
+<pre>
+sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt-get install -y curl git unzip xz-utils zip libglu1-mesa
+</pre>
+
+Extract the prerequisite Flutter SDK into the folder you downloaded it to.
+
+When the SDK folder is unzipped move the folder into your Ubuntu root folder
+
+In your terminal navigate into the Flutter folder and use the ‘code .’ command to open the Flutter folder in VS Code, which will download the required files.
+
+You will be asked to create a path for your Flutter projects.
+
+Finally use the command ‘flutter doctor’ in your VS Code terminal to review any potential missing packages which are to be installed using ‘sudo apt install package-name’ and then you can check your installed version using ‘flutter - -version’.
+
+Close VS Code as this is not a project but just the necessary files for Flutter to work.
+
+Creating Your Project
+
+Launch Visual Studio Code and open the command palette.
+
+Start typing "flutter new". Select the Flutter: New Project command.
+
+Select Application and then a folder in which to create your project. This could be your home directory, or another specific folder.
+
+In order to specify the target device for your project development, you need to use the device icon in the status bar (at the bottom of the VS Code window) where you will be prompted to select a target device for your development.
+
+To run the project you can run it in Debug mode, which will open a window that has hot reload enabled so that you can code and see live updates as you develop. Debug mode will pause when you encounter an error.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
