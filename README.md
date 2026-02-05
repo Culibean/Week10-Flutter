@@ -74,7 +74,7 @@
 
 ## Getting Started
 
-To install FLutter you can follow the documentation on <a href="https://docs.flutter.dev/install"> Install Flutter </a> and- or follow the steps below.
+To install FLutter you can follow the documentation on <a href="https://docs.flutter.dev/install"> Install Flutter </a> and/or follow the steps below.
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ You need:
 
 <a href="https://docs.flutter.dev/install/manual">Download the SDK file</a> zip folder for Ubuntu and Linux
 
-Alternatively you can also use <a href="https://dartpad.dev/"> DartPad </a> to start learning Dart and Flutter/
+Alternatively you can also use <a href="https://dartpad.dev/"> DartPad </a> to start learning Dart and Flutter.
 
 ### Installation
 
