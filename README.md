@@ -146,11 +146,23 @@ Add a list of good Flutter docs
 ### Top contributors:
 
 <a href="https://github.com/Angel-Hime">
-  <img src="https://avatars.githubusercontent.com/u/101633619?v=4" alt="Annabel's image" />
+  <img 
+    src="https://avatars.githubusercontent.com/u/101633619?v=4" 
+    alt="Annabel's image"
+    width="120"
+    height="120"
+    style="border-radius: 50%;"
+  />
 </a>
 
 <a href="https://github.com/Culibean">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQH3ZmmMLmTOEw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712916133374?e=2147483647&v=beta&t=kd4bWq3n7C6XJSohkTTQdblMy90G3cIiJ8wcBIoJntw" alt="Uli's image" />
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4E03AQH3ZmmMLmTOEw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712916133374?e=2147483647&v=beta&t=kd4bWq3n7C6XJSohkTTQdblMy90G3cIiJ8wcBIoJntw" 
+    alt="Uli's image"
+    width="120"
+    height="120"
+    style="border-radius: 50%;"
+  />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
