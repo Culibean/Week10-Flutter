@@ -40,9 +40,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#what_is_flutter">What is Flutter</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -64,13 +61,9 @@
 
 ## About The Project
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### What is Flutter?
+This is a short introduction on how to use Flutter to easily create and design apps. We focused on the design aspect and the demo in the lib.main.dart file gives a quick overview of the architecture and structure of Flutter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## Getting Started
 
