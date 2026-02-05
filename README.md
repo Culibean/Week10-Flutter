@@ -197,7 +197,7 @@ _For a more detailed explanation of Flutter, please refer to the [Documentation]
 
 Links to tutorials
 
-- <a href="https://www.youtube.com/watch?v=HQ_ytw58tC4"> Beginners Course for Fluuter </a>
+- <a href="https://www.youtube.com/watch?v=HQ_ytw58tC4"> Beginners Course for Flutter </a>
 - <a href= "https://flutter.dev/learn"> Flutter Learn </a>
 - <a href="https://dart.dev/learn/tutorial/first-app"> Build your first app </a>
 - <a href="https://www.geeksforgeeks.org/flutter/flutter-tutorial/">Flutter Tutorial on Geeks for Geeks </a>
