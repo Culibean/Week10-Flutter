@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://brandlogos.net/wp-content/uploads/2021/12/flutter-brandlogo.net_.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://brandlogos.net/wp-content/uploads/2021/12/flutter-brandlogo.net_.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mobile app development with Flutter - an intro</h3>
