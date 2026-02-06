@@ -67,7 +67,7 @@ This is a short introduction on how to use Flutter to easily create and design a
 
 ## Getting Started
 
-To install FLutter you can follow the documentation on <a href="https://docs.flutter.dev/install"> Install Flutter </a> and/or follow the steps below.
+To install Flutter you can follow the documentation on <a href="https://docs.flutter.dev/install"> Install Flutter </a> and/or follow the steps below.
 
 ### Prerequisites
 
