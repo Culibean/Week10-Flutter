@@ -210,4 +210,6 @@ We also found it difficult to install the Flutter SDK at the start; we found tha
 
 We worked cohesively as a team and found very little to disagree on. Our communication was fluid and we were able to share tasks without any concerns or issues. We helped each other to understand aspects of our individual research and guided one another on installation issues. All-in-all it was a smooth and slick process and we are comfortable with our final project.
 
+Other than the struggles that we experienced during installation, once we had everything working we found that the Flutter framework was very easy to use for building applications. We both struggle with design and css and so leapt at the chance to learn about this framework in order to improve our app design. We found that the modularity being used in the framework allowed for simple code structures to be constructed for reasonably complex actions, and the clear scaffolding and information provided directly within VS Code whilst coding meant that we were able to find issues or points of concern quickly and efficiently.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
