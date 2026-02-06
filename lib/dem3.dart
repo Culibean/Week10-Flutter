@@ -37,24 +37,12 @@ class MyApp extends StatelessWidget {
                 ),
               ],
             ),
-            body: Center(
-              child: Container(
-                height: 300,
-                width: 300,
-                decoration: BoxDecoration(
-                  color: Colors.pink,
-                  borderRadius: BorderRadius.circular(15),
-                ),
-                padding: EdgeInsets.all(25),
-                child: Text(
-                  "This is our demo",
-                  style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 28,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-              ),
+            body: Column(
+              children: [
+                Expanded(child: Container(color: Colors.pink[100])),
+                Expanded(flex: 3, child: Container(color: Colors.pink[200])),
+                Expanded(child: Container(color: Colors.pink[400])),
+              ],
             ),
           );
         },
